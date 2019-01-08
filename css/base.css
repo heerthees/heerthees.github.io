@@ -1,0 +1,42 @@
+#header
+{
+	margin-top: 10%;
+
+}
+.strike
+{
+	 text-decoration: line-through !important;
+}
+.body
+{
+	background-color: #FFF9C4;
+}
+.todoremove
+{
+	margin-left: 10%;
+}
+.todotextbox
+{
+	height: 50px;
+	width: 65%;
+	border: 1px solid;
+	padding: 10px;
+	box-shadow: 7px 10px #FFCDD2;
+}
+.todolabel
+{
+	width: 100% !important;
+}
+.todotext
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 26px;
+	letter-spacing: 1.2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: 700;
+	text-decoration: none;
+	font-style: italic;
+	font-variant: normal;
+	text-transform: capitalize;
+}
